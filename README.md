@@ -60,12 +60,11 @@ Voor de schuivende interface wordt positie 0mm (centrum) positie 20mm (voor pass
 Aan de hand van een tekening wordt de hoek van het scherm ten opzichte van het dashboard berekend voor elke verschuiving en draaiing. Zie onderstaande foto:
 
 <p>
-  <img src="schermen_finaal 2.png" width="56%" height="auto">
-
   <img src="schermposities_legende.png" width="33%" height="auto">
+  <img src="schermen_finaal 2.png" width="56%" height="auto">
 </p>
 
-> legende van analyse schermposities
+> linkse foto: legende van analyse schermposities
 
 ## Introductie
 Max 300 woorden.
