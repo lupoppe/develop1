@@ -25,7 +25,18 @@ De oplossingen zijn als volgt:
 - touchscreen draait weg van chauffeur
 - touchscreen heeft polarisatie zodat het enkel zichtbaar is voor passagier
 
-![IMG_20240523_195704](https://github.com/lupoppe/develop3/assets/159799449/67400769-42c2-4d6c-a5ae-6d1e0dbe9776)
+<p align="center">
+  <img src="schets_oplossingen.jpg" width="600" height="auto" />
+</p>
+
+> Schets oplossingen met 1: schuivende interface, 2: draaiend scherm, 3: schuivend scherm en 4: gepolariseerd scherm
+
+### Test
+Door gebruik te maken van anthropometrische data en een fysieke test wordt nagegaan op welke manier het scherm niet meer beschikbaar is voor de chauffeur en tegelijk makkelijk te gebruiken is voor de passagier. De test wordt uitgevoerd in een auto, waarbij een ipad dient als touchscreen.
+
+## Voorbereiding
+
+
 
 
 ## Introductie
