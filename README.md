@@ -37,7 +37,12 @@ De oplossingen zijn als volgt:
 Door gebruik te maken van anthropometrische data en een fysieke test wordt nagegaan op welke manier het scherm niet meer beschikbaar is voor de chauffeur en tegelijk makkelijk te gebruiken is voor de passagier. De test wordt uitgevoerd in een auto, waarbij een ipad dient als touchscreen.
 
 ## Voorbereiding
+### rijkdiepte
+Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder wordt design for the big gebruikt om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
 
+|eenheid mm|P1|P5|gem|P95|P99|SD|
+|-|-|-|-|-|-|-|
+|reikdiepte|651|685|767|850|884|50|
 
 
 
