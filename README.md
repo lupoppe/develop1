@@ -6,6 +6,7 @@
 --/--/--
 
 ## Samenvatting
+<!---
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
 - Wat is het probleem?
@@ -13,6 +14,7 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
+-->
 
 ### Het probleem
 Touchscreenconsoles in auto's zijn gevaarlijk om te gebruiken tijdens het rijden. Er zijn veel handelingen nodig om iets aan te passen en de ogen zijn lang van de baan. 
