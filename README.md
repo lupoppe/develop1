@@ -116,7 +116,7 @@ Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 - Wikipedia Artikel
 
 
-#### *setup test*
+#### *Setup test*
 Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview van de auto, een andere filmt het dashboard. 
 
 <p >
@@ -126,7 +126,7 @@ Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview 
 > setup camera's
 
 ### Resultaten
-#### *analyse rijkdiepte*
+#### *Analyse rijkdiepte*
 
 Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier bij design fot the small en van chauffeur bij design for the big.
 
@@ -142,7 +142,7 @@ Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier 
 Het is duidelijk dat het touchscreen pas onbereikbaar is zonder te bewegen als het recht voor passagier staat (y = 20).
 Bij y = 15 is het scherm net niet buiten het bereik, maar niet heel het scherm is bereikbaar zonder te verplaatsen.
 
-#### *analyse test passagier*
+#### *Analyse test passagier*
 Onderstaande tabel toont opmerkingen van de gebruikers per positie van het scherm. 
 
 |         | loodrecht op passagier | 40° met chauffeur | 40° met passagier   | 70° met chauffeur | 90° met chauffeur |
@@ -151,9 +151,9 @@ Onderstaande tabel toont opmerkingen van de gebruikers per positie van het scher
 | 15      | ok                     | ok                | onhandig, in de weg | onhandig          | onhandig          |
 | 20      | ok                     | -                 | onhandig            | onhandig, vreemd  | onhandig          |
 
-algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naar de passagier toe.
+Algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naar de passagier toe.
 
-#### *analyse test chauffeur* 
+#### *Analyse test chauffeur* 
 
 
 ## Introductie
