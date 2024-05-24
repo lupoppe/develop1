@@ -136,7 +136,7 @@ Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier 
   <img src="rijkdiepteanalyse_20.png" width="29.8%" height="auto">
 </p>
 
-> y-waarde: 0
+> y-waarde: (links: 0), (middelste: 15), (rechts: 20)
 
 
 
