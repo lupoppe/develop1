@@ -84,9 +84,9 @@ uit de analyse komen volgende hoeken voor Θ:
 #### *uitvoeren test*
 Fase 1: passagiersrol
 
-In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
+*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.* 
 
-*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.* <br />
+In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
 Voor elke y-waarde doet de passagier een opdracht om het bereik tot het scherm te testen. Voor elke hoek waar het scherm op gezet wordt, evalueert de passagier de zichtbaarheid van het scherm.
 
 Opdrachten in deze fase:
@@ -95,9 +95,9 @@ Opdrachten in deze fase:
 
 Fase 2: Chauffeursrol
 
-In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
+*De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.* 
 
-*De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.* <br />
+In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
 Voor elke y-waarde en corresponderende hoeken:
 - Chauffeur probeert scherm te lezen vanuit rustpositie.
 - Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?
