@@ -86,32 +86,32 @@ Fase 1: passagiersrol
 
 In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
 
-De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.
+*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.* <br />
 Voor elke y-waarde doet de passagier een opdracht om het bereik tot het scherm te testen. Voor elke hoek waar het scherm op gezet wordt, evalueert de passagier de zichtbaarheid van het scherm.
 
 Opdrachten in deze fase:
-apps openen
-route ingeven in navigatie-app
+- apps openen
+- route ingeven in navigatie-app
 
 Fase 2: Chauffeursrol
 
 In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
 
-De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.
+*De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.* <br />
 Voor elke y-waarde en corresponderende hoeken:
-Chauffeur probeert scherm te lezen vanuit rustpositie.
-Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?
-De afstand van hoofd tot rustpositie wordt gemeten.
-Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
-De exacte hoek wordt gemeten.
+- Chauffeur probeert scherm te lezen vanuit rustpositie.
+- Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?
+*De afstand van hoofd tot rustpositie wordt gemeten.*
+- Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
+*De exacte hoek wordt gemeten.*
 
 Er wordt geen test gedaan naar het aanraken van het scherm, er wordt vanuit gegaan dat de chauffeur het scherm wil zien om iets aan te passen en het scherm eerder kan bereiken dan het te zien.
 
 Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
-Foto met grote pijlen
-Titel krantenartikel
-Namen liedjes in spotify playlist
-Wikipedia Artikel
+- Foto met grote pijlen
+- Titel krantenartikel
+- Namen liedjes in spotify playlist
+- Wikipedia Artikel
 
 
 ## Introductie
