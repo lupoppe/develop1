@@ -115,7 +115,6 @@ Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 - Namen liedjes in spotify playlist
 - Wikipedia Artikel
 
-<br />
 
 #### *setup test*
 Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview van de auto, een andere filmt het dashboard. 
