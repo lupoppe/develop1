@@ -92,6 +92,10 @@ Fase 1: passagiersrol
 In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
 Voor elke y-waarde doet de passagier een opdracht om het bereik tot het scherm te testen. Voor elke hoek waar het scherm op gezet wordt, evalueert de passagier de zichtbaarheid van het scherm.
 
+<p align="center">
+    <img src="voorbeeld1.png" width="600" height="auto">
+</p>
+
 Opdrachten in deze fase:
 - apps openen
 - route ingeven in navigatie-app
@@ -108,6 +112,9 @@ Voor elke y-waarde en corresponderende hoeken:
 - Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
 *De exacte hoek wordt gemeten.*
 
+<p align="center">
+    <img src="persoon2_verplaatsing_0_70.png" width="600" height="auto">
+</p>
 
 Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 - Foto met grote pijlen
@@ -153,6 +160,8 @@ Onderstaande tabel toont opmerkingen van de gebruikers per positie van het scher
 
 Algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naar de passagier toe.
 
+Algemeen is te stellen dat het scherm recht op de passagier of tot 40° van de passagier weggedraaid (richting chauffeur) mag staan.
+
 #### *Analyse test chauffeur* 
 Onderstaande grafiek toont de verplaatsing in cm in de y-richting dat de gebruikers afgelden om het scherm te zien.
 Dit is enkel wanneer het scherm op 70° of 90° met de chauffeur staat. Voor andere hoeken was het scherm zichtbaar uit neutrale rijpositie.
@@ -161,31 +170,47 @@ Dit is enkel wanneer het scherm op 70° of 90° met de chauffeur staat. Voor and
  <img src="grafiek.png" width="400" height="auto">
 </p>
 
+Aan de hand van de gemeten resultaten is er geen duidelijke trend te zien tussen positie van scherm en verplaatsing dat
+de chauffeur moet doen. Dit hangt allemaal heel sterk af van de persoon in kwestie. Er is wel een vrij duidelijke hoek
+vanaf wanneer de chauffeur het scherm niet meer vanuit rustpositie ziet. Data hiervoor:
 
+|           | centrum | 15  | 20  |
+|-----------|---------|-----|-----|
+| persoon 1 | 30°     | 25° | 20° |
+| persoon 2 | 35°     | 30° | 25° |
+| persoon 3 | 35°     | 30° | 25° |
+| persoon 4 | 35°     | 30° | 20° |
 
-## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Het kantelpunt is telkens dicht bij de draaiing waarbij het scherm op 70° met de chauffeur staat.
 
-## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+#### Algemeen
+Er zijn geen overeenkomsten tussen de posities die goed zijn voor de passagier en niet afleidend voor de chauffeur.
+Het scherm is enkel niet beschikbaar wanneer het ver weg genoeg staat. Een schuivend of draaiend scherm alsook een combinatie
+van de twee is geen werkende oplossing voor het probleem.
 
-## Discovery
-Max. 1000 woorden
-### Doestellingen
-Wat wilde je bereiken?
-### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
-### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+### Conlcusies en implicaties
+Een draaiend of schuivend prototype is niet de oplossing.
+
+**Design requirements:**
+- **Bruikbaar passagier:** Scherm is naar passagier gericht.
+- **Schuin Onzichtbaar:** Scherm dat onzichtbaar kan zijn zonder weg te draaien.
+
+**Mogelijke oplossing:**
+Een scherm die door middel van polarisatie het licht naar de chauffeur kan blokkeren zou aan de design requirements kunnen voldoen.
+Dit kan nog in combinatie met een verschuivende interface/scherm om te verzekeren dat de chauffeur het niet meer kan gebruiken.
 
 ## Kritische reflectie
-Max. 500 woorden
+De conclusie van deze test is stelt dat geen van de geteste prototypes een goeie oplossing is. De test brengt zo wel resultaten
+op, maar zou beter geweest zijn moest ook een scherm met polarisatie getest worden. Verder konden er betere prototypes gemaakt
+worden om de testen uit te voeren. De moeilijkheden bij de prototypes is dat deze in een auto gebruikt worden, zo is het meestal
+niet mogelijk om de prototypes fysiek te bevestigen in de auto. Om het scherm op de juiste hoeken te zetten werd een gradenboog
+gebruikt. Het nadeel hieraan is dat het scherm elke keer opnieuw goed gezet moest worden. Gebruik maken van frames met 
+vaste hoeken maakt het mogelijk om snel te wisselen en altijd de juiste en zelfde hoek te gebruiken. Ten slotte is het in cm meten
+van de gebruikers hun verplaasting inefficiënt en een te precieze meting.
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+sites literatuurstudie:
+- Cumming, I., & Di Giovanni, N. (2021, March 2). Viewing Angle of TVs. RTINGS.com. Retrieved May 25, 2024, from https://www.rtings.com/tv/tests/picture-quality/viewing-angle
+- What is the Best TV viewing distance. (2022, February 28). TCL. Retrieved May 25, 2024, from https://www.tcl.com/global/en/blog/what-is-the-best-tv-viewing-distance
 
 ## Bijlagen
