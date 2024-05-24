@@ -42,7 +42,7 @@ De doelstelling van deze proef is om een geschikte methode te vinden die het pro
 
 ### Methodologie
 #### *Rijkdiepte*
-Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder wordt design for the big gebruikt om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
+Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder maken we gebruik van design for the big om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
 
 eenheid mm|P1|P5|gem|P95|P99|SD
 -|-|-|-|-|-|-
@@ -84,7 +84,7 @@ uit de analyse komen volgende hoeken voor Θ:
 #### *uitvoeren test*
 Fase 1: passagiersrol
 
-*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.* 
+*De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.*
 
 In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
 Voor elke y-waarde doet de passagier een opdracht om het bereik tot het scherm te testen. Voor elke hoek waar het scherm op gezet wordt, evalueert de passagier de zichtbaarheid van het scherm.
@@ -100,18 +100,24 @@ Fase 2: Chauffeursrol
 In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
 Voor elke y-waarde en corresponderende hoeken:
 - Chauffeur probeert scherm te lezen vanuit rustpositie.
-- Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?
+- Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?  
 *De afstand van hoofd tot rustpositie wordt gemeten.*
 - Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
 *De exacte hoek wordt gemeten.*
 
-Er wordt geen test gedaan naar het aanraken van het scherm, er wordt vanuit gegaan dat de chauffeur het scherm wil zien om iets aan te passen en het scherm eerder kan bereiken dan het te zien.
 
 Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 - Foto met grote pijlen
 - Titel krantenartikel
 - Namen liedjes in spotify playlist
 - Wikipedia Artikel
+
+#### *setup test*
+Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview van de auto, een andere filmt het dashboard. 
+
+
+### Resultaten
+
 
 
 ## Introductie
