@@ -138,7 +138,23 @@ Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier 
 
 > y-waarde: (links: 0), (middelste: 15), (rechts: 20)
 
-change
+
+Het is duidelijk dat het touchscreen pas onbereikbaar is zonder te bewegen als het recht voor passagier staat (y = 20).
+Bij y = 15 is het scherm net niet buiten het bereik, maar niet heel het scherm is bereikbaar zonder te verplaatsen.
+
+#### *analyse test passagier*
+Onderstaande tabel toont opmerkingen van de gebruikers per positie van het scherm. 
+
+|         | loodrecht op passagier | 40° met chauffeur | 40° met passagier   | 70° met chauffeur | 90° met chauffeur |
+|---------|------------------------|-------------------|---------------------|-------------------|-------------------|
+| centrum | ok                     | ok                | onhandig            | onhandig          | onhandig          | 
+| 15      | ok                     | ok                | onhandig, in de weg | onhandig          | onhandig          |
+| 20      | ok                     | -                 | onhandig            | onhandig, vreemd  | onhandig          |
+
+algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naar de passagier toe.
+
+#### *analyse test chauffeur* 
+
 
 ## Introductie
 Max 300 woorden.
