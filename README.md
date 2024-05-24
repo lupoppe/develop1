@@ -44,9 +44,9 @@ De doelstelling van deze proef is om een geschikte methode te vinden die het pro
 #### *Rijkdiepte*
 Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder maken we gebruik van design for the big om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
 
-eenheid mm|P1|P5|gem|P95|P99|SD
--|-|-|-|-|-|-
-reikdiepte|651|685|767|850|884|50
+| eenheid mm | P1  | P5  | gem | P95 | P99 | SD  |
+|------------|-----|-----|-----|-----|-----|-----|
+| reikdiepte | 651 | 685 | 767 | 850 | 884 | 50  |
 
 
 #### *Draaiing scherm*
@@ -74,12 +74,15 @@ Aan de hand van een tekening wordt de hoek van het scherm ten opzichte van het d
 > linkse foto: legende van analyse schermposities
 
 uit de analyse komen volgende hoeken voor Θ:
-|y-waarde|loodrecht op passagier|40° met chauffeur|40° met passagier|70° met chauffeur|90° met chauffeur|
-|-|-|-|-|-|-|
-|centrum|24°|10°|64°|37°|55°|
-|15 cm|17°|5.2°|53°|30°|47°|
-|20 cm|0°|- 6.4°|66°|22°|43°|
 
+| y-waarde | loodrecht op passagier | 40° met chauffeur | 40° met passagier | 70° met chauffeur | 90° met chauffeur |
+|:---------|:-----------------------|:------------------|:------------------|:------------------|:------------------|
+| centrum  | 24°                    | 10°               | 64°               | 37°               | 55°               |
+| 15 cm    | 17°                    | 5.2°              | 53°               | 30°               | 47°               |
+| 20 cm    | 0°                     | - 6.4°            | 66°               | 22°               | 43°               |
+
+
+<br />
 
 #### *uitvoeren test*
 Fase 1: passagiersrol
@@ -101,7 +104,7 @@ In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de
 Voor elke y-waarde en corresponderende hoeken:
 - Chauffeur probeert scherm te lezen vanuit rustpositie.
 - Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?  
-*De afstand van hoofd tot rustpositie wordt gemeten.*
+ *De afstand van hoofd tot rustpositie wordt gemeten.*
 - Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
 *De exacte hoek wordt gemeten.*
 
@@ -111,6 +114,8 @@ Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 - Titel krantenartikel
 - Namen liedjes in spotify playlist
 - Wikipedia Artikel
+
+<br />
 
 #### *setup test*
 Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview van de auto, een andere filmt het dashboard. 
@@ -128,11 +133,11 @@ Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier 
 
 <p>
   <img src="rijkdiepteanalyse_0.png" width="33%" height="auto">
-  <img src="rijkdiepteanalyse_15.png" width="33%" height="auto">
-  <img src="rijkdiepteanalyse_20.png" width="33%" height="auto">
+  <img src="rijkdiepteanalyse_15.png" width="32%" height="auto">
+  <img src="rijkdiepteanalyse_20.png" width="29.8%" height="auto">
 </p>
 
-> links y-waarde 0, centerum
+> y-waarde: 0
 
 
 ## Introductie
