@@ -115,6 +115,9 @@ Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
 #### *setup test*
 Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview van de auto, een andere filmt het dashboard. 
 
+<p >
+  <img src="testsetup.jpg" width="50%" height="auto">
+</p>
 
 ### Resultaten
 
