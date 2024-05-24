@@ -131,9 +131,9 @@ Om de test uit te voeren werd een cabrio gebruikt. Een camera filmt het topview 
 Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier bij design fot the small en van chauffeur bij design for the big.
 
 <p>
-  <img src="rijkdiepteanalyse_0.png" width="33%" height="auto">
-  <img src="rijkdiepteanalyse_15.png" width="32%" height="auto">
-  <img src="rijkdiepteanalyse_20.png" width="29.8%" height="auto">
+  <img src="rijkdiepteanalyse_0.png" width="auto" height="130">
+  <img src="rijkdiepteanalyse_15.png" width="auto" height="130">
+  <img src="rijkdiepteanalyse_20.png" width="auto%" height="130">
 </p>
 
 > y-waarde: (links: 0), (middelste: 15), (rechts: 20)
