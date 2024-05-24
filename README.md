@@ -41,16 +41,15 @@ Door gebruik te maken van anthropometrische data en een fysieke test wordt nageg
 De doelstelling van deze proef is om een geschikte methode te vinden die het probleem oplost. Na de test moet duidelijk zijn welk prototype bruikbaar is en hoe die te gebruiken is. Indien geen van de prototypes bruikbaar zijn moeten gerelateerde designrequirements geformuleerd worden en een alternatief voorgesteld.
 
 ### Methodologie
-#### Rijkdiepte
+#### *Rijkdiepte*
 Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder wordt design for the big gebruikt om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
 
 eenheid mm|P1|P5|gem|P95|P99|SD
 -|-|-|-|-|-|-
 reikdiepte|651|685|767|850|884|50
 
-<br />
 
-#### Draaiing scherm
+#### *Draaiing scherm*
 Aan de hand van een literatuurstudie wordt gezocht op welke hoeken een scherm gezet kan worden om deze goed/slecht zichtbaar te maken. Volgens een artikel van [TCL USA](https://www.tcl.com/global/en/blog/what-is-the-best-tv-viewing-distance#:~:text=3.,degrees%20from%20left%20to%20right.) is het best om een tv te bekijken op een hoek van maximum 40°. Een [studie van RTINGS](https://www.rtings.com/tv/tests/picture-quality/viewing-angle) toont dat bij 70° problemen als kleur- en gammaverschuiving, kleurverbleking, helderheidverlies en steiging in zwartniveau optreden. Aan de hand van deze bevindingen worden volgende hoeken besturdeerd:
 - loodrecht op dashboard
 - loodrechts op passagier
@@ -59,30 +58,60 @@ Aan de hand van een literatuurstudie wordt gezocht op welke hoeken een scherm ge
 - 70° met bestuurder
 - 90° met bestuurder
 
-<br />
 
-#### Verschuiving
+#### *Verschuiving*
 Voor de schuivende interface wordt positie 0mm (centrum) positie 20mm (voor passagier) en tussenmaat 15 mm bestudeerd. Deze wordt gecombineerd met de draaiing van het scherm.
 
-<br />
 
-#### Analyse schermpositie
+#### *Analyse schermpositie*
 Aan de hand van een tekening wordt de hoek van het scherm ten opzichte van het dashboard berekend voor elke verschuiving en draaiing. Zie onderstaande foto:
 
 <p>
-  <img src="schermposities_legende.png" width="33%" height="auto">
-  <img src="schermen_finaal 2.png" width="56%" height="auto">
+  <img src="schermposities_legende.png" width="25%" height="auto">
+  <img src="schermen_finaal 2.png" width="70%" height="auto">
 </p>
 
 > linkse foto: legende van analyse schermposities
 
-uit de analyse komen volgende resultaten:
+uit de analyse komen volgende hoeken voor Θ:
 |y-waarde|loodrecht op passagier|40° met chauffeur|40° met passagier|70° met chauffeur|90° met chauffeur|
 |-|-|-|-|-|-|
 |centrum|24°|10°|64°|37°|55°|
 |15 cm|17°|5.2°|53°|30°|47°|
 |20 cm|0°|- 6.4°|66°|22°|43°|
 
+
+#### *uitvoeren test*
+Fase 1: passagiersrol
+
+In deze fase wordt gekeken hoe goed de passagier met het scherm kan werken in de verschillende posities. Alsook welke posities comfortabel zijn.
+
+De testpersoon zit in de passagiersstoel, de interviewer zit in de bestuurdersstoel.
+Voor elke y-waarde doet de passagier een opdracht om het bereik tot het scherm te testen. Voor elke hoek waar het scherm op gezet wordt, evalueert de passagier de zichtbaarheid van het scherm.
+
+Opdrachten in deze fase:
+apps openen
+route ingeven in navigatie-app
+
+Fase 2: Chauffeursrol
+
+In deze fase wordt gekeken wanneer het scherm (niet) leesbaar is en hoe groot de drempel is om het scherm te lezen.
+
+De testpersoon gaat nu in de bestuurdersstoel zitten en de interviewer in de passagiersstoel.
+Voor elke y-waarde en corresponderende hoeken:
+Chauffeur probeert scherm te lezen vanuit rustpositie.
+Hoe ver moet de chauffeur het hoofd bewegen om het scherm te lezen?
+De afstand van hoofd tot rustpositie wordt gemeten.
+Vanaf welke exacte hoek kan de chauffeur in rustpositie het scherm lezen?
+De exacte hoek wordt gemeten.
+
+Er wordt geen test gedaan naar het aanraken van het scherm, er wordt vanuit gegaan dat de chauffeur het scherm wil zien om iets aan te passen en het scherm eerder kan bereiken dan het te zien.
+
+Te lezen beelden in deze fase (gesorteerd op moeilijkheid):
+Foto met grote pijlen
+Titel krantenartikel
+Namen liedjes in spotify playlist
+Wikipedia Artikel
 
 
 ## Introductie
