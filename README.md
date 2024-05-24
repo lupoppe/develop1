@@ -133,7 +133,7 @@ Onderstaande foto's schetsen voor elke verschuiving de rijkdiepte van pasasgier 
 <p>
   <img src="rijkdiepteanalyse_0.png" width="auto" height="130">
   <img src="rijkdiepteanalyse_15.png" width="auto" height="130">
-  <img src="rijkdiepteanalyse_20.png" width="auto%" height="130">
+  <img src="rijkdiepteanalyse_20.png" width="auto" height="130">
 </p>
 
 > y-waarde: (links: 0), (middelste: 15), (rechts: 20)
@@ -154,7 +154,12 @@ Onderstaande tabel toont opmerkingen van de gebruikers per positie van het scher
 Algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naar de passagier toe.
 
 #### *Analyse test chauffeur* 
+Onderstaande grafiek toont de verplaatsing in cm in de y-richting dat de gebruikers afgelden om het scherm te zien.
+Dit is enkel wanneer het scherm op 70° of 90° met de chauffeur staat. Voor andere hoeken was het scherm zichtbaar uit neutrale rijpositie.
 
+<p> 
+ <img src="grafiek.png" width="600" height="auto">
+</p>
 
 ## Introductie
 Max 300 woorden.
