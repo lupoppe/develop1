@@ -38,16 +38,19 @@ Door gebruik te maken van anthropometrische data en een fysieke test wordt nageg
 
 ## Discovery
 ### Doelstellingen
-De doelstelling van deze proef is om een geschikte methode te vinden die het probleem oplost. Na de test moet duidelijk zijn welk prototype bruikbaar is en hoe die te gebruiken is. Indien geen van de prototypes bruikbaar zijn moeten gerelateerde designrequirements geformuleerd worden en een alternatief voorgesteld. 0
+De doelstelling van deze proef is om een geschikte methode te vinden die het probleem oplost. Na de test moet duidelijk zijn welk prototype bruikbaar is en hoe die te gebruiken is. Indien geen van de prototypes bruikbaar zijn moeten gerelateerde designrequirements geformuleerd worden en een alternatief voorgesteld.
 
-### Rijkdiepte
+### Methodologie
+#### Rijkdiepte
 Om het scherm onbruikbaar te maken voor de chauffeur en bruikbaar voor de passagier wordt er rekening gehouden met de reikdiepte wanneer mensen zitten. Voor de bestuurder wordt design for the big gebruikt om zeker te zijn dat het scherm buiten meeste mensen hun bereik ligt. Voor de passagier wordt design for the small gebruikt, zo kunnen passagiers het scherm sowieso gebruiken. Onderstaande tabel toont de data uit DINBelg.
 
 eenheid mm|P1|P5|gem|P95|P99|SD
 -|-|-|-|-|-|-
 reikdiepte|651|685|767|850|884|50
 
-### Draaiing scherm
+<br />
+
+#### Draaiing scherm
 Aan de hand van een literatuurstudie wordt gezocht op welke hoeken een scherm gezet kan worden om deze goed/slecht zichtbaar te maken. Volgens een artikel van [TCL USA](https://www.tcl.com/global/en/blog/what-is-the-best-tv-viewing-distance#:~:text=3.,degrees%20from%20left%20to%20right.) is het best om een tv te bekijken op een hoek van maximum 40°. Een [studie van RTINGS](https://www.rtings.com/tv/tests/picture-quality/viewing-angle) toont dat bij 70° problemen als kleur- en gammaverschuiving, kleurverbleking, helderheidverlies en steiging in zwartniveau optreden. Aan de hand van deze bevindingen worden volgende hoeken besturdeerd:
 - loodrecht op dashboard
 - loodrechts op passagier
@@ -56,10 +59,14 @@ Aan de hand van een literatuurstudie wordt gezocht op welke hoeken een scherm ge
 - 70° met bestuurder
 - 90° met bestuurder
 
-### Verschuiving
+<br />
+
+#### Verschuiving
 Voor de schuivende interface wordt positie 0mm (centrum) positie 20mm (voor passagier) en tussenmaat 15 mm bestudeerd. Deze wordt gecombineerd met de draaiing van het scherm.
 
-### Analyse schermpositie
+<br />
+
+#### Analyse schermpositie
 Aan de hand van een tekening wordt de hoek van het scherm ten opzichte van het dashboard berekend voor elke verschuiving en draaiing. Zie onderstaande foto:
 
 <p>
