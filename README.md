@@ -157,9 +157,11 @@ Algemene opmerkingen: Onaangenaam als scherm verder weggedraaid is dan recht naa
 Onderstaande grafiek toont de verplaatsing in cm in de y-richting dat de gebruikers afgelden om het scherm te zien.
 Dit is enkel wanneer het scherm op 70° of 90° met de chauffeur staat. Voor andere hoeken was het scherm zichtbaar uit neutrale rijpositie.
 
-<p> 
- <img src="grafiek.png" width="600" height="auto">
+<p align="center">
+ <img src="grafiek.png" width="400" height="auto">
 </p>
+
+
 
 ## Introductie
 Max 300 woorden.
